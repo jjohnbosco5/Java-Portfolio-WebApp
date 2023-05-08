@@ -25,8 +25,8 @@ public class EmployeeService {
 		js.put("Name", "John Jesubande");
 		js.put("Calling Name", "john");
 		js.put("DOB", "Oct 22, 1994");
-		js.put("Hobbies", "Praying, Singing, Reading Technical Blogs,Teaching, Helping to Poor People..");
-		js.put("Places he like", "Africa, NA, Bali");
+		js.put("Hobbies", "Praying, Singing, Reading Technical Blogs,Teaching, Helping Poor People..");
+		js.put("Places he likes", "Atarctica, St-kits, Santorini");
 		return js.toString();
 }
 }
